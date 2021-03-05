@@ -1,0 +1,2529 @@
+fileFormatVersion: 2
+guid: cbd622fcf10b66646a5eee11acc6147e
+timeCreated: 1614881672
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: map-marker-selector
+    21300002: map-cursor
+    21300004: map-markers-frame
+    21300006: map-discovered-deco
+    21300008: map-teleport-cursor
+    21300010: map-discovery-icon
+    21300012: Z1-____
+    21300014: Z1-_W__
+    21300016: Z1-_D__
+    21300018: Z1-D___
+    21300020: Z1-W___
+    21300022: Z1-WW__
+    21300024: Z1-DW__
+    21300026: Z1-WD__
+    21300028: Z1-DD__
+    21300030: Z1-W_W_
+    21300032: Z1-D_W_
+    21300034: Z1-_W_W
+    21300036: Z1-D_D_
+    21300038: Z1-_D_W
+    21300040: Z1-_D_D
+    21300042: Z1-WW_W
+    21300044: Z1-DW_W
+    21300046: Z1DD_W
+    21300048: Z1-WD_W
+    21300050: Z1-WWWW
+    21300052: Z1-DWWW
+    21300054: Z1-WDWW
+    21300056: Z1-DDWW
+    21300058: Z1-DWDW
+    21300060: Z1-WDWD
+    21300062: Z1-DWW_
+    21300064: Z1-DDW_
+    21300066: Z1-WWW_
+    21300068: Z1-DDD_
+    21300070: Z1-DDDD
+    21300072: Z1-WDW_
+    21300074: Z1-DD_D
+    21300076: Z1-DDDW
+    21300078: Z1-DDWD
+    21300080: Z1-WD_D
+    21300082: Z1-DWD_
+    21300084: Z0-D_W_
+    21300086: Z0-WW_W
+    21300088: Z0-WWW_
+    21300090: Z0-DDD_
+    21300092: Z0-DD_D
+    21300094: Z0-D_D_
+    21300096: Z0-_W_W
+    21300098: Z0-W_W_
+    21300100: Z0-DD__
+    21300102: Z0-WWWW
+    21300104: Z0-____
+    21300106: Z0-WW__
+    21300108: Z0-_D_D
+    21300110: Z0-W___
+    21300112: Z0-_W__
+    21300114: Z0-D___
+    21300116: Z0-_D__
+    21300118: Z0-DWWW
+    21300120: Z0-WDWW
+    21300122: Z0-DDWD
+    21300124: Z0-DDWW
+    21300126: Z0-DWD_
+    21300128: Z0-DWDW
+    21300130: Z0-WDWD
+    21300132: Z0-DW_W
+    21300134: Z0-WDW_
+    21300136: Z0-WD_W
+    21300138: Z0-DWW_
+    21300140: Z0-DDDD
+    21300142: Z0-DDW_
+    21300144: Z0-DD_W
+    21300146: Z0-DW__
+    21300148: Z0-WD__
+    21300150: Z2-D_W_
+    21300152: Z2-WW_W
+    21300154: Z2-WWW_
+    21300156: Z2-DDD_
+    21300158: Z2-DD_D
+    21300160: Z2-D_D_
+    21300162: Z2-_W_W
+    21300164: Z2-W_W_
+    21300166: Z2-DD__
+    21300168: Z2-_D_W
+    21300170: Z2-WWWW
+    21300172: Z2-____
+    21300174: Z2-WW__
+    21300176: Z2-_D_D
+    21300178: Z2-W___
+    21300180: Z2-_W__
+    21300182: Z2-D___
+    21300184: Z2-_D__
+    21300186: Z2-DDDW
+    21300188: Z2-DWWW
+    21300190: Z2-WDWW
+    21300192: Z2-DWD_
+    21300194: Z2-DDWD
+    21300196: Z2-DDWW
+    21300198: Z2-DWDW
+    21300200: Z2-WDWD
+    21300202: Z2-DW_W
+    21300204: Z2-WDW_
+    21300206: Z2-WD_W
+    21300208: Z2-DWW_
+    21300210: Z2-DDDD
+    21300212: Z2-DDW_
+    21300214: Z2-DD_W
+    21300216: Z2-DW__
+    21300218: Z2-WD__
+    21300220: Z0-WD_D
+    21300222: Z2-WD_D
+    21300224: map-marker-blue
+    21300226: map-marker-red
+    21300228: map-marker-green
+    21300230: map-marker-chest
+    21300232: map-marker-question
+    21300234: map-marker-enemy
+    21300236: map-priedieu
+    21300238: map-teleport
+    21300240: map-soledad
+    21300242: map-mea-culpa-altar
+    21300244: map-flask
+    21300246: map-marker-npc
+    21300248: map-marker-cherub
+    21300250: map-confessor
+    21300252: map-nacimiento
+    21300254: map-guilt-fragment
+    21300256: map-miriam
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: map-marker-selector
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 198
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-cursor
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 183
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-markers-frame
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 203
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-discovered-deco
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 200
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -11}
+        - {x: -11, y: 11}
+        - {x: 11, y: 11}
+        - {x: 11, y: -11}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-teleport-cursor
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 173
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 7, z: 7, w: 7}
+      outline:
+      - - {x: -11, y: -11}
+        - {x: -11, y: 11}
+        - {x: 11, y: 11}
+        - {x: 11, y: -11}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-discovery-icon
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 228
+        width: 24
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -9}
+        - {x: -12, y: 9}
+        - {x: 12, y: 9}
+        - {x: 12, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-____
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 456
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-_W__
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 438
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-_D__
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 438
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-D___
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 438
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-W___
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 438
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-WW__
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 456
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-DW__
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 276
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-WD__
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 276
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-DD__
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 474
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-W_W_
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 474
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-D_W_
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 492
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-_W_W
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 474
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-D_D_
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 474
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-_D_W
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 456
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-_D_D
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 438
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-WW_W
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 492
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-DW_W
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 366
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1DD_W
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 294
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-WD_W
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 348
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-WWWW
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 456
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-DWWW
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 420
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-WDWW
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 420
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-DDWW
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 402
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-DWDW
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 384
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-WDWD
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-DWW_
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 348
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-DDW_
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 312
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-WWW_
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 492
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-DDD_
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 492
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-DDDD
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 330
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-WDW_
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 366
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-DD_D
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 492
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-DDDW
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 420
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-DDWD
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 402
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-WD_D
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 384
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z1-DWD_
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 402
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-D_W_
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 98
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-WW_W
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 98
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-WWW_
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 98
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-DDD_
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 98
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-DD_D
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 98
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-D_D_
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 90
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-_W_W
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 90
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-W_W_
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 90
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-DD__
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 90
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-WWWW
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 82
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-____
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 82
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-WW__
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 82
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-_D_D
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 74
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-W___
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 74
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-_W__
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 74
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-D___
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 74
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-_D__
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 74
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-DWWW
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 66
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-WDWW
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 66
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-DDWD
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 58
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-DDWW
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 58
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-DWD_
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 58
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-DWDW
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 50
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-WDWD
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 50
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-DW_W
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 42
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-WDW_
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 42
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-WD_W
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 34
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-DWW_
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 34
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-DDDD
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 26
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-DDW_
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 18
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-DD_W
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 10
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-DW__
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-WD__
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-D_W_
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 473
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-WW_W
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 473
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-WWW_
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 473
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DDD_
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 473
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DD_D
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 473
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-D_D_
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 435
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-_W_W
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 435
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-W_W_
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 435
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DD__
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 435
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-_D_W
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 397
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-WWWW
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 397
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-____
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 397
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-WW__
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 397
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-_D_D
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 359
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-W___
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 359
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-_W__
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 359
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-D___
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 359
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-_D__
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 359
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DDDW
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 321
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DWWW
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 321
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-WDWW
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 321
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DWD_
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 283
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DDWD
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 283
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DDWW
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 283
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DWDW
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 245
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-WDWD
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 245
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DW_W
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 207
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-WDW_
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 207
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-WD_W
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 169
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DWW_
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 169
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DDDD
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 131
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DDW_
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 93
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DD_W
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 55
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-DW__
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 17
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-WD__
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 17
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z0-WD_D
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 26
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -3}
+        - {x: -3, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Z2-WD_D
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 131
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-marker-blue
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 153
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-marker-red
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 153
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-marker-green
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 153
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-marker-chest
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 163
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-marker-question
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 163
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-marker-enemy
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 183
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-priedieu
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 173
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-teleport
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 183
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-soledad
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 153
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-mea-culpa-altar
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 173
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-flask
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 173
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-marker-npc
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 163
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-marker-cherub
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 173
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-confessor
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 185
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-nacimiento
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 163
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-guilt-fragment
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 203
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map-miriam
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 171
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -5}
+        - {x: -5, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

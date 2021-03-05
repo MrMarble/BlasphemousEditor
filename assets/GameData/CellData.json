@@ -1,0 +1,2870 @@
+{
+    "19_27": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S01",
+        "Type": "PrieDieu",
+        "Sprite": "WDW_"
+    },
+    "19_26": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S01",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "19_25": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S01",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "19_24": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S01",
+        "Type": "Normal",
+        "Sprite": "D_DW"
+    },
+    "18_24": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S18",
+        "Type": "Teleport",
+        "Sprite": "WWDW"
+    },
+    "20_24": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S12",
+        "Type": "Normal",
+        "Sprite": "DWDW"
+    },
+    "21_25": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S02",
+        "Type": "Normal",
+        "Sprite": "WWD_"
+    },
+    "21_24": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S02",
+        "Type": "Normal",
+        "Sprite": "D_W_"
+    },
+    "21_23": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S02",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "21_22": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S02",
+        "Type": "Normal",
+        "Sprite": "W_D_"
+    },
+    "21_21": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S02",
+        "Type": "Normal",
+        "Sprite": "W_WW"
+    },
+    "22_22": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S03",
+        "Type": "Normal",
+        "Sprite": "DWDW"
+    },
+    "22_19": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S03",
+        "Type": "FuenteFlask",
+        "Sprite": "WWDW"
+    },
+    "23_23": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S04",
+        "Type": "Normal",
+        "Sprite": "WWD_"
+    },
+    "23_22": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S04",
+        "Type": "Normal",
+        "Sprite": "D_W_"
+    },
+    "23_21": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S04",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "23_20": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S04",
+        "Type": "Normal",
+        "Sprite": "W_D_"
+    },
+    "23_19": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S04",
+        "Type": "Normal",
+        "Sprite": "D_DW"
+    },
+    "24_23": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S05",
+        "Type": "Normal",
+        "Sprite": "DWDW"
+    },
+    "24_20": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S05",
+        "Type": "Normal",
+        "Sprite": "DWDW"
+    },
+    "24_19": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S13",
+        "Type": "Normal",
+        "Sprite": "DWWW"
+    },
+    "25_26": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S06",
+        "Type": "Normal",
+        "Sprite": "WWW_"
+    },
+    "25_25": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S06",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "25_24": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S06",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "25_23": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S06",
+        "Type": "Normal",
+        "Sprite": "D_WW"
+    },
+    "25_22": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S07",
+        "Type": "Normal",
+        "Sprite": "WWD_"
+    },
+    "25_21": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S07",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "25_20": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S07",
+        "Type": "Normal",
+        "Sprite": "D_W_"
+    },
+    "25_19": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S07",
+        "Type": "Normal",
+        "Sprite": "W_D_"
+    },
+    "25_18": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S07",
+        "Type": "Normal",
+        "Sprite": "W_WD"
+    },
+    "26_22": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S08",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "27_22": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S08",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "28_22": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S08",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "29_22": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S08",
+        "Type": "Normal",
+        "Sprite": "_WWW"
+    },
+    "25_17": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S09",
+        "Type": "Normal",
+        "Sprite": "WDW_"
+    },
+    "25_16": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S09",
+        "Type": "Normal",
+        "Sprite": "D_WW"
+    },
+    "24_16": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S10",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "23_16": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S10",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "26_19": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S11",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "27_19": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S11",
+        "Type": "PrieDieu",
+        "Sprite": "_W_W"
+    },
+    "28_19": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S11",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "29_19": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S15",
+        "Type": "Normal",
+        "Sprite": "DWDW"
+    },
+    "30_19": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S16",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "31_19": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S16",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "32_19": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S17",
+        "Type": "Normal",
+        "Sprite": "DWDW"
+    },
+    "49_40": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S01",
+        "Type": "Normal",
+        "Sprite": "DWW_"
+    },
+    "49_39": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S01",
+        "Type": "Normal",
+        "Sprite": "W_D_"
+    },
+    "49_38": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S01",
+        "Type": "Normal",
+        "Sprite": "D_D_"
+    },
+    "49_37": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S01",
+        "Type": "Normal",
+        "Sprite": "W_DD"
+    },
+    "50_39": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S17",
+        "Type": "Confessor",
+        "Sprite": "DWWW"
+    },
+    "48_38": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S03",
+        "Type": "PrieDieu",
+        "Sprite": "WWDW"
+    },
+    "50_38": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S05",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "51_38": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S05",
+        "Type": "Normal",
+        "Sprite": "_WW_"
+    },
+    "51_37": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S05",
+        "Type": "Normal",
+        "Sprite": "__WW"
+    },
+    "50_37": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S05",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "49_36": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S15",
+        "Type": "Normal",
+        "Sprite": "WDD_"
+    },
+    "49_35": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S15",
+        "Type": "Normal",
+        "Sprite": "D_D_"
+    },
+    "49_34": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S15",
+        "Type": "Normal",
+        "Sprite": "D_DW"
+    },
+    "48_35": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S08",
+        "Type": "Normal",
+        "Sprite": "WWDW"
+    },
+    "48_34": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S09",
+        "Type": "Normal",
+        "Sprite": "DWDW"
+    },
+    "50_36": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S06",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "51_36": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S06",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "52_36": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S06",
+        "Type": "Normal",
+        "Sprite": "_WW_"
+    },
+    "52_35": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S06",
+        "Type": "Normal",
+        "Sprite": "__DW"
+    },
+    "51_35": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S06",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "50_35": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S06",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "53_35": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S07",
+        "Type": "Normal",
+        "Sprite": "DWWW"
+    },
+    "50_34": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S10",
+        "Type": "Normal",
+        "Sprite": "DW__"
+    },
+    "50_33": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S10",
+        "Type": "Normal",
+        "Sprite": "W__W"
+    },
+    "51_33": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S10",
+        "Type": "Normal",
+        "Sprite": "__WW"
+    },
+    "51_34": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S10",
+        "Type": "Normal",
+        "Sprite": "_W__"
+    },
+    "52_34": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S10",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "53_34": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S10",
+        "Type": "Normal",
+        "Sprite": "_WW_"
+    },
+    "53_33": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S10",
+        "Type": "Normal",
+        "Sprite": "__WD"
+    },
+    "52_33": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S10",
+        "Type": "Normal",
+        "Sprite": "WW_D"
+    },
+    "52_32": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S11",
+        "Type": "Normal",
+        "Sprite": "_DWW"
+    },
+    "51_32": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S11",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "50_32": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S11",
+        "Type": "Normal",
+        "Sprite": "WW_W"
+    },
+    "53_32": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S12",
+        "Type": "Normal",
+        "Sprite": "WD_W"
+    },
+    "54_32": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S12",
+        "Type": "Normal",
+        "Sprite": "_WW_"
+    },
+    "54_31": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S12",
+        "Type": "Normal",
+        "Sprite": "__DW"
+    },
+    "53_31": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S12",
+        "Type": "PrieDieu",
+        "Sprite": "DW_W"
+    },
+    "52_31": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S18",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "51_31": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S18",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "50_31": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S18",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "55_31": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S13",
+        "Type": "Normal",
+        "Sprite": "DWD_"
+    },
+    "55_30": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S13",
+        "Type": "Normal",
+        "Sprite": "D_DW"
+    },
+    "54_30": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S14",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "53_30": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S14",
+        "Type": "Normal",
+        "Sprite": "WW_W"
+    },
+    "56_31": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S02",
+        "Type": "Teleport",
+        "Sprite": "DWWW"
+    },
+    "49_31": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S19",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "48_31": {
+        "Color": "#654333",
+        "ZoneId": "D01_Z04_S19",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "6_42": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "_WW_"
+    },
+    "6_41": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "___W"
+    },
+    "7_41": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "8_41": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "9_41": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "10_41": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "11_41": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S05",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "12_41": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S05",
+        "Type": "PrieDieu",
+        "Sprite": "_W_W"
+    },
+    "13_41": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S05",
+        "Type": "Normal",
+        "Sprite": "_WDD"
+    },
+    "14_41": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S11",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "15_41": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S11",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "16_41": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "DWDW"
+    },
+    "13_40": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S04",
+        "Type": "Normal",
+        "Sprite": "_DWW"
+    },
+    "12_40": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S04",
+        "Type": "Normal",
+        "Sprite": "DW_D"
+    },
+    "11_40": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S12",
+        "Type": "Confessor",
+        "Sprite": "WWDW"
+    },
+    "11_39": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S09",
+        "Type": "Soledad",
+        "Sprite": "WWDW"
+    },
+    "11_38": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S06",
+        "Type": "Teleport",
+        "Sprite": "WWDW"
+    },
+    "11_37": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S08",
+        "Type": "MeaCulpa",
+        "Sprite": "WWDW"
+    },
+    "12_39": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S07",
+        "Type": "Normal",
+        "Sprite": "DDW_"
+    },
+    "12_38": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S07",
+        "Type": "Normal",
+        "Sprite": "D_W_"
+    },
+    "12_37": {
+        "Color": "#2D2B37",
+        "ZoneId": "D17_Z01_S07",
+        "Type": "Normal",
+        "Sprite": "D_DW"
+    },
+    "17_41": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S07",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "18_41": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S07",
+        "Type": "PrieDieu",
+        "Sprite": "_WDW"
+    },
+    "19_41": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "20_41": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "_W_D"
+    },
+    "21_41": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "22_41": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "23_41": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "24_41": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "25_41": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "DW__"
+    },
+    "26_41": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "27_41": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "28_41": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "26_40": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "25_40": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "W__W"
+    },
+    "29_41": {
+        "Color": "#615832",
+        "ZoneId": "D01_Z02_S01",
+        "Type": "PrieDieu",
+        "Sprite": "DW_W"
+    },
+    "30_41": {
+        "Color": "#615832",
+        "ZoneId": "D01_Z02_S01",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "31_42": {
+        "Color": "#615832",
+        "ZoneId": "D01_Z02_S02",
+        "Type": "Normal",
+        "Sprite": "WWD_"
+    },
+    "31_41": {
+        "Color": "#615832",
+        "ZoneId": "D01_Z02_S02",
+        "Type": "Normal",
+        "Sprite": "D_D_"
+    },
+    "31_40": {
+        "Color": "#615832",
+        "ZoneId": "D01_Z02_S02",
+        "Type": "Normal",
+        "Sprite": "D_DW"
+    },
+    "32_42": {
+        "Color": "#615832",
+        "ZoneId": "D01_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "DDW_"
+    },
+    "32_41": {
+        "Color": "#615832",
+        "ZoneId": "D01_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "D__W"
+    },
+    "33_41": {
+        "Color": "#615832",
+        "ZoneId": "D01_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "32_40": {
+        "Color": "#615832",
+        "ZoneId": "D01_Z02_S04",
+        "Type": "Normal",
+        "Sprite": "DWDW"
+    },
+    "34_41": {
+        "Color": "#615832",
+        "ZoneId": "D01_Z02_S05",
+        "Type": "Normal",
+        "Sprite": "DWDW"
+    },
+    "30_40": {
+        "Color": "#615832",
+        "ZoneId": "D01_Z02_S06",
+        "Type": "MeaCulpa",
+        "Sprite": "DWDW"
+    },
+    "29_40": {
+        "Color": "#615832",
+        "ZoneId": "D01_Z02_S07",
+        "Type": "Teleport",
+        "Sprite": "WWDW"
+    },
+    "35_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S01",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "36_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S01",
+        "Type": "Normal",
+        "Sprite": "_W__"
+    },
+    "37_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S01",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "38_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S01",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "36_40": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S01",
+        "Type": "Normal",
+        "Sprite": "W__W"
+    },
+    "37_40": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S01",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "38_40": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S01",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "39_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S02",
+        "Type": "Normal",
+        "Sprite": "D_WW"
+    },
+    "39_42": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S02",
+        "Type": "Normal",
+        "Sprite": "WW__"
+    },
+    "40_42": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S02",
+        "Type": "Normal",
+        "Sprite": "_WW_"
+    },
+    "40_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S02",
+        "Type": "Normal",
+        "Sprite": "W_D_"
+    },
+    "40_40": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S02",
+        "Type": "Normal",
+        "Sprite": "__WD"
+    },
+    "39_40": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S02",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "41_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S03",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "42_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S03",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "43_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S03",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "44_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S03",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "45_44": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S04",
+        "Type": "Normal",
+        "Sprite": "DWW_"
+    },
+    "45_43": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S04",
+        "Type": "Normal",
+        "Sprite": "D_W_"
+    },
+    "45_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S04",
+        "Type": "Normal",
+        "Sprite": "D_D_"
+    },
+    "45_42": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S04",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "45_40": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S04",
+        "Type": "Normal",
+        "Sprite": "W_DW"
+    },
+    "44_43": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S07",
+        "Type": "Normal",
+        "Sprite": "WWDW"
+    },
+    "46_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S06",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "47_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S06",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "48_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S06",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "49_41": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S06",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "46_40": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S05",
+        "Type": "Normal",
+        "Sprite": "DW__"
+    },
+    "47_40": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S05",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "47_39": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S05",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "46_39": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S05",
+        "Type": "Normal",
+        "Sprite": "W__W"
+    },
+    "48_39": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S05",
+        "Type": "Normal",
+        "Sprite": "__WW"
+    },
+    "48_40": {
+        "Color": "#304261",
+        "ZoneId": "D01_Z03_S05",
+        "Type": "Normal",
+        "Sprite": "_WD_"
+    },
+    "33_40": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S01",
+        "Type": "Normal",
+        "Sprite": "DWW_"
+    },
+    "33_39": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S01",
+        "Type": "Normal",
+        "Sprite": "D_WD"
+    },
+    "32_39": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S27",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "33_38": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S02",
+        "Type": "Normal",
+        "Sprite": "DD_W"
+    },
+    "34_38": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S02",
+        "Type": "Normal",
+        "Sprite": "_W_D"
+    },
+    "35_38": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S02",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "34_37": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S20",
+        "Type": "Normal",
+        "Sprite": "DDWW"
+    },
+    "36_38": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S03",
+        "Type": "Normal",
+        "Sprite": "DWD_"
+    },
+    "36_37": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S03",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "36_36": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S03",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "36_35": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S03",
+        "Type": "Normal",
+        "Sprite": "W_D_"
+    },
+    "36_34": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S03",
+        "Type": "Normal",
+        "Sprite": "W_WD"
+    },
+    "37_36": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S08",
+        "Type": "Normal",
+        "Sprite": "WW_W"
+    },
+    "38_36": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S08",
+        "Type": "Normal",
+        "Sprite": "_WW_"
+    },
+    "38_35": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S08",
+        "Type": "Normal",
+        "Sprite": "__WW"
+    },
+    "37_35": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S08",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "33_37": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "WWD_"
+    },
+    "33_36": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_35": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_34": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_33": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_32": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_31": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_30": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "D_D_"
+    },
+    "33_29": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_28": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_27": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_26": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_25": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_24": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_23": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_22": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_21": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_20": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "33_19": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S25",
+        "Type": "Normal",
+        "Sprite": "D_DW"
+    },
+    "34_19": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S26",
+        "Type": "Normal",
+        "Sprite": "DWWW"
+    },
+    "36_33": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S13",
+        "Type": "Normal",
+        "Sprite": "_D_W"
+    },
+    "38_33": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S13",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "39_33": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S13",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "40_33": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S13",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "37_38": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S04",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "38_38": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S04",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "39_38": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S04",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "40_39": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S05",
+        "Type": "Normal",
+        "Sprite": "WDW_"
+    },
+    "40_38": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S05",
+        "Type": "Normal",
+        "Sprite": "D_D_"
+    },
+    "40_37": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S05",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "40_36": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S05",
+        "Type": "Normal",
+        "Sprite": "W_D_"
+    },
+    "40_35": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S05",
+        "Type": "Normal",
+        "Sprite": "D_WW"
+    },
+    "39_35": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S18",
+        "Type": "FuenteFlask",
+        "Sprite": "WWDW"
+    },
+    "41_38": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S06",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "42_38": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S06",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "43_38": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S06",
+        "Type": "Normal",
+        "Sprite": "_WWW"
+    },
+    "41_36": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S09",
+        "Type": "Normal",
+        "Sprite": "DW__"
+    },
+    "41_35": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S09",
+        "Type": "Normal",
+        "Sprite": "W__W"
+    },
+    "42_35": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S09",
+        "Type": "Normal",
+        "Sprite": "__DW"
+    },
+    "42_36": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S09",
+        "Type": "Normal",
+        "Sprite": "_WW_"
+    },
+    "43_36": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S10",
+        "Type": "Normal",
+        "Sprite": "WWD_"
+    },
+    "43_35": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S10",
+        "Type": "Normal",
+        "Sprite": "D_W_"
+    },
+    "43_34": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S10",
+        "Type": "Normal",
+        "Sprite": "W_DD"
+    },
+    "45_36": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S11",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "46_36": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S11",
+        "Type": "Normal",
+        "Sprite": "_WWW"
+    },
+    "44_36": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S11",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "44_34": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S12",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "45_34": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S12",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "46_34": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S12",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "47_34": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S12",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "41_33": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S14",
+        "Type": "Normal",
+        "Sprite": "DW__"
+    },
+    "41_32": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S14",
+        "Type": "Normal",
+        "Sprite": "W__W"
+    },
+    "42_32": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S14",
+        "Type": "Normal",
+        "Sprite": "___W"
+    },
+    "42_33": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S14",
+        "Type": "Normal",
+        "Sprite": "_W__"
+    },
+    "43_33": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S14",
+        "Type": "Normal",
+        "Sprite": "_DWW"
+    },
+    "43_32": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S14",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "44_33": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S15",
+        "Type": "Normal",
+        "Sprite": "WWW_"
+    },
+    "44_32": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S15",
+        "Type": "Normal",
+        "Sprite": "D_W_"
+    },
+    "44_31": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S15",
+        "Type": "Normal",
+        "Sprite": "D_DW"
+    },
+    "43_31": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S22",
+        "Type": "Normal",
+        "Sprite": "WWDW"
+    },
+    "45_31": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S19",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "46_31": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S19",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "47_31": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S19",
+        "Type": "PrieDieu",
+        "Sprite": "_WDW"
+    },
+    "32_38": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "_WD_"
+    },
+    "32_37": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "W_WD"
+    },
+    "31_38": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "30_38": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "29_38": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "28_38": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "WWD_"
+    },
+    "28_37": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S02",
+        "Type": "PrieDieu",
+        "Sprite": "__WW"
+    },
+    "27_37": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "26_37": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "25_37": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "24_37": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "23_37": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S06",
+        "Type": "Normal",
+        "Sprite": "DWDW"
+    },
+    "22_37": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "WWD_"
+    },
+    "22_36": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "__WD"
+    },
+    "21_36": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "20_36": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "19_36": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "18_36": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "17_36": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "16_36": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "W__D"
+    },
+    "16_37": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "DWW_"
+    },
+    "15_37": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S04",
+        "Type": "Normal",
+        "Sprite": "_WD_"
+    },
+    "15_36": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S04",
+        "Type": "Normal",
+        "Sprite": "__WW"
+    },
+    "14_36": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S04",
+        "Type": "Normal",
+        "Sprite": "W__W"
+    },
+    "14_37": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S04",
+        "Type": "Normal",
+        "Sprite": "DW__"
+    },
+    "13_37": {
+        "Color": "#36693D",
+        "ZoneId": "D03_Z01_S05",
+        "Type": "PrieDieu",
+        "Sprite": "DWDW"
+    },
+    "22_35": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S01",
+        "Type": "Normal",
+        "Sprite": "WDW_"
+    },
+    "22_34": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S01",
+        "Type": "Normal",
+        "Sprite": "__W_"
+    },
+    "21_34": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S01",
+        "Type": "Normal",
+        "Sprite": "W__W"
+    },
+    "21_35": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S01",
+        "Type": "Normal",
+        "Sprite": "DWW_"
+    },
+    "22_33": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S01",
+        "Type": "Normal",
+        "Sprite": "__WW"
+    },
+    "21_33": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S01",
+        "Type": "Normal",
+        "Sprite": "WW_W"
+    },
+    "20_35": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S02",
+        "Type": "Normal",
+        "Sprite": "WWD_"
+    },
+    "20_34": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S02",
+        "Type": "Normal",
+        "Sprite": "__W_"
+    },
+    "20_33": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S02",
+        "Type": "Normal",
+        "Sprite": "__WD"
+    },
+    "19_34": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S02",
+        "Type": "Normal",
+        "Sprite": "___W"
+    },
+    "19_35": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S02",
+        "Type": "PrieDieu",
+        "Sprite": "WWW_"
+    },
+    "18_35": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S02",
+        "Type": "Normal",
+        "Sprite": "DWW_"
+    },
+    "18_34": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S02",
+        "Type": "Normal",
+        "Sprite": "W___"
+    },
+    "18_33": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S02",
+        "Type": "Normal",
+        "Sprite": "W__W"
+    },
+    "19_33": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S02",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "17_34": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S10",
+        "Type": "Normal",
+        "Sprite": "__WW"
+    },
+    "16_35": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S10",
+        "Type": "Normal",
+        "Sprite": "DD__"
+    },
+    "16_34": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S10",
+        "Type": "Normal",
+        "Sprite": "W__D"
+    },
+    "15_35": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S13",
+        "Type": "Normal",
+        "Sprite": "WWD_"
+    },
+    "15_33": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S12",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "14_33": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S12",
+        "Type": "Normal",
+        "Sprite": "WW_W"
+    },
+    "16_33": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S09",
+        "Type": "Normal",
+        "Sprite": "DD__"
+    },
+    "17_32": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S09",
+        "Type": "Normal",
+        "Sprite": "__W_"
+    },
+    "17_31": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S09",
+        "Type": "Normal",
+        "Sprite": "__WD"
+    },
+    "16_31": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S09",
+        "Type": "Normal",
+        "Sprite": "W__W"
+    },
+    "16_32": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S09",
+        "Type": "Normal",
+        "Sprite": "W___"
+    },
+    "18_32": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "WW__"
+    },
+    "18_31": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "W_WD"
+    },
+    "19_32": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "_W__"
+    },
+    "20_32": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "_DW_"
+    },
+    "20_31": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "W_DD"
+    },
+    "19_31": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "19_30": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "19_29": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "19_28": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "D_DD"
+    },
+    "21_32": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S05",
+        "Type": "Normal",
+        "Sprite": "WW__"
+    },
+    "22_32": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S05",
+        "Type": "Normal",
+        "Sprite": "_WD_"
+    },
+    "22_31": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S05",
+        "Type": "Normal",
+        "Sprite": "__WW"
+    },
+    "21_31": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S05",
+        "Type": "Normal",
+        "Sprite": "D__D"
+    },
+    "23_32": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "24_32": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "25_32": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "26_32": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "27_32": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S15",
+        "Type": "Normal",
+        "Sprite": "DWDW"
+    },
+    "16_30": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S14",
+        "Type": "FuenteFlask",
+        "Sprite": "WWDW"
+    },
+    "17_30": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S08",
+        "Type": "Normal",
+        "Sprite": "DDW_"
+    },
+    "17_29": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S08",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "17_28": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S08",
+        "Type": "Normal",
+        "Sprite": "W_DW"
+    },
+    "18_30": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S07",
+        "Type": "Normal",
+        "Sprite": "WDW_"
+    },
+    "18_29": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S07",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "18_28": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S07",
+        "Type": "Normal",
+        "Sprite": "D_DW"
+    },
+    "20_30": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S04",
+        "Type": "Normal",
+        "Sprite": "WDW_"
+    },
+    "20_29": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S04",
+        "Type": "Normal",
+        "Sprite": "W__W"
+    },
+    "21_29": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S04",
+        "Type": "Normal",
+        "Sprite": "__WD"
+    },
+    "21_30": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S04",
+        "Type": "Normal",
+        "Sprite": "WDW_"
+    },
+    "20_28": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S06",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "21_28": {
+        "Color": "#3A386D",
+        "ZoneId": "D03_Z02_S06",
+        "Type": "Normal",
+        "Sprite": "_DWW"
+    },
+    "28_32": {
+        "Color": "#364C67",
+        "ZoneId": "D20_Z01_S01",
+        "Type": "PrieDieu",
+        "Sprite": "DW_W"
+    },
+    "29_32": {
+        "Color": "#364C67",
+        "ZoneId": "D20_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "30_32": {
+        "Color": "#364C67",
+        "ZoneId": "D20_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "_WDD"
+    },
+    "31_32": {
+        "Color": "#364C67",
+        "ZoneId": "D20_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "D_WW"
+    },
+    "31_33": {
+        "Color": "#364C67",
+        "ZoneId": "D20_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "31_34": {
+        "Color": "#364C67",
+        "ZoneId": "D20_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "WWD_"
+    },
+    "32_34": {
+        "Color": "#364C67",
+        "ZoneId": "D20_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "D_WW"
+    },
+    "32_35": {
+        "Color": "#364C67",
+        "ZoneId": "D20_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "32_36": {
+        "Color": "#364C67",
+        "ZoneId": "D20_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "WDW_"
+    },
+    "30_31": {
+        "Color": "#364C67",
+        "ZoneId": "D20_Z01_S04",
+        "Type": "Normal",
+        "Sprite": "WDW_"
+    },
+    "30_30": {
+        "Color": "#364C67",
+        "ZoneId": "D20_Z01_S04",
+        "Type": "Normal",
+        "Sprite": "__DW"
+    },
+    "29_30": {
+        "Color": "#364C67",
+        "ZoneId": "D20_Z01_S05",
+        "Type": "Normal",
+        "Sprite": "WWDW"
+    },
+    "44_44": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "43_44": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "W__W"
+    },
+    "43_45": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S01",
+        "Type": "PrieDieu",
+        "Sprite": "_WW_"
+    },
+    "42_45": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "41_45": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "__DW"
+    },
+    "40_45": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "D__W"
+    },
+    "41_46": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "__W_"
+    },
+    "40_46": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "W___"
+    },
+    "41_47": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "_WD_"
+    },
+    "40_47": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S02",
+        "Type": "Normal",
+        "Sprite": "DW__"
+    },
+    "42_47": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S09",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "43_47": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S09",
+        "Type": "Normal",
+        "Sprite": "_WWW"
+    },
+    "39_45": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S04",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "38_45": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S04",
+        "Type": "Normal",
+        "Sprite": "WW_W"
+    },
+    "39_47": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "38_47": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "W__W"
+    },
+    "38_48": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "38_49": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "_WW_"
+    },
+    "37_49": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "DW__"
+    },
+    "37_48": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "37_47": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S03",
+        "Type": "Normal",
+        "Sprite": "D_WW"
+    },
+    "36_47": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S05",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "35_47": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S05",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "34_47": {
+        "Color": "#3D5674",
+        "ZoneId": "D02_Z01_S05",
+        "Type": "Normal",
+        "Sprite": "WW_W"
+    },
+    "36_49": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S01",
+        "Type": "Normal",
+        "Sprite": "D_DW"
+    },
+    "36_50": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S01",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "36_51": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S01",
+        "Type": "Normal",
+        "Sprite": "DWW_"
+    },
+    "35_49": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S08",
+        "Type": "Normal",
+        "Sprite": "_WD_"
+    },
+    "34_49": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S08",
+        "Type": "PrieDieu",
+        "Sprite": "_W_W"
+    },
+    "33_49": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S08",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "35_48": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S08",
+        "Type": "Normal",
+        "Sprite": "W_WW"
+    },
+    "33_50": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S12",
+        "Type": "Normal",
+        "Sprite": "DWWW"
+    },
+    "32_58": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "DWD_"
+    },
+    "32_57": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "32_56": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "32_55": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "32_54": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "32_53": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "32_52": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "32_51": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "32_50": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "W_D_"
+    },
+    "32_49": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "D_D_"
+    },
+    "32_48": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "32_47": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "32_45": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "32_46": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "32_44": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "32_43": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S11",
+        "Type": "Normal",
+        "Sprite": "W_WD"
+    },
+    "31_49": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S06",
+        "Type": "Confessor",
+        "Sprite": "WWDW"
+    },
+    "35_53": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S02",
+        "Type": "Normal",
+        "Sprite": "DWD_"
+    },
+    "35_52": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S02",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "35_51": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S02",
+        "Type": "Normal",
+        "Sprite": "W_DW"
+    },
+    "34_56": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S04",
+        "Type": "Normal",
+        "Sprite": "WWD_"
+    },
+    "34_55": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S04",
+        "Type": "Normal",
+        "Sprite": "D_D_"
+    },
+    "34_54": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S04",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "34_53": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S04",
+        "Type": "Normal",
+        "Sprite": "W_DW"
+    },
+    "33_55": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S09",
+        "Type": "FuenteFlask",
+        "Sprite": "WWDW"
+    },
+    "36_53": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "D_WW"
+    },
+    "36_54": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "36_55": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "D_W_"
+    },
+    "36_56": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S03",
+        "Type": "Normal",
+        "Sprite": "WWD_"
+    },
+    "35_55": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S05",
+        "Type": "Normal",
+        "Sprite": "D_DW"
+    },
+    "35_56": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S05",
+        "Type": "Normal",
+        "Sprite": "D_W_"
+    },
+    "35_57": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S05",
+        "Type": "Normal",
+        "Sprite": "W_D_"
+    },
+    "35_58": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S05",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "35_59": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S05",
+        "Type": "Normal",
+        "Sprite": "DWW_"
+    },
+    "36_57": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S10",
+        "Type": "Normal",
+        "Sprite": "DWWW"
+    },
+    "34_59": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S07",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "33_59": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S07",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "33_58": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S13",
+        "Type": "Normal",
+        "Sprite": "DWWW"
+    },
+    "32_59": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S01",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "31_59": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S01",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "30_59": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S01",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "31_58": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S14",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "30_58": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S14",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "29_58": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S08",
+        "Type": "Normal",
+        "Sprite": "D_DW"
+    },
+    "29_59": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S08",
+        "Type": "PrieDieu",
+        "Sprite": "W_D_"
+    },
+    "29_60": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S08",
+        "Type": "Normal",
+        "Sprite": "DWD_"
+    },
+    "30_60": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S16",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "31_60": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S16",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "32_60": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S16",
+        "Type": "Normal",
+        "Sprite": "_DWW"
+    },
+    "28_58": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S12",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "27_58": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S12",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "26_58": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S12",
+        "Type": "Normal",
+        "Sprite": "WW_W"
+    },
+    "28_60": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S07",
+        "Type": "Normal",
+        "Sprite": "_DD_"
+    },
+    "28_59": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S07",
+        "Type": "Normal",
+        "Sprite": "__WW"
+    },
+    "27_59": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S07",
+        "Type": "Normal",
+        "Sprite": "___W"
+    },
+    "27_60": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S07",
+        "Type": "Normal",
+        "Sprite": "_W__"
+    },
+    "26_59": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S07",
+        "Type": "Normal",
+        "Sprite": "D__W"
+    },
+    "26_60": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S07",
+        "Type": "Normal",
+        "Sprite": "WD__"
+    },
+    "25_59": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S17",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "24_59": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S17",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "23_59": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S17",
+        "Type": "Normal",
+        "Sprite": "WW_W"
+    },
+    "32_63": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S02",
+        "Type": "Normal",
+        "Sprite": "DWD_"
+    },
+    "32_62": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S02",
+        "Type": "Normal",
+        "Sprite": "D_W_"
+    },
+    "32_61": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S02",
+        "Type": "Normal",
+        "Sprite": "W_WD"
+    },
+    "31_62": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S03",
+        "Type": "Normal",
+        "Sprite": "_WD_"
+    },
+    "30_61": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S03",
+        "Type": "Normal",
+        "Sprite": "D__W"
+    },
+    "30_62": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S03",
+        "Type": "Normal",
+        "Sprite": "DW__"
+    },
+    "27_61": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S05",
+        "Type": "Normal",
+        "Sprite": "W__W"
+    },
+    "27_62": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S05",
+        "Type": "Normal",
+        "Sprite": "WW__"
+    },
+    "28_62": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S05",
+        "Type": "Normal",
+        "Sprite": "_W__"
+    },
+    "29_62": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S05",
+        "Type": "Normal",
+        "Sprite": "_WD_"
+    },
+    "29_61": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S05",
+        "Type": "Normal",
+        "Sprite": "W_DW"
+    },
+    "28_61": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S05",
+        "Type": "Normal",
+        "Sprite": "__WD"
+    },
+    "26_61": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S06",
+        "Type": "Normal",
+        "Sprite": "__WD"
+    },
+    "25_61": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S06",
+        "Type": "Normal",
+        "Sprite": "D__W"
+    },
+    "24_61": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S18",
+        "Type": "Normal",
+        "Sprite": "W_DW"
+    },
+    "24_62": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S18",
+        "Type": "Normal",
+        "Sprite": "W_W_"
+    },
+    "24_63": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S18",
+        "Type": "Normal",
+        "Sprite": "DWD_"
+    },
+    "25_63": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S09",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "26_63": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S09",
+        "Type": "PrieDieu",
+        "Sprite": "_W_W"
+    },
+    "27_63": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S09",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "28_63": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S20",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "29_63": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S20",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "30_63": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S21",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "31_63": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S21",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "33_63": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S13",
+        "Type": "MeaCulpa",
+        "Sprite": "DWWW"
+    },
+    "50_41": {
+        "Color": "#72615A",
+        "ZoneId": "D08_Z01_S01",
+        "Type": "PrieDieu",
+        "Sprite": "DW_W"
+    },
+    "51_41": {
+        "Color": "#72615A",
+        "ZoneId": "D08_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "52_41": {
+        "Color": "#72615A",
+        "ZoneId": "D08_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "53_41": {
+        "Color": "#72615A",
+        "ZoneId": "D08_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "54_41": {
+        "Color": "#72615A",
+        "ZoneId": "D08_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "31_39": {
+        "Color": "#356B5A",
+        "ZoneId": "D01_Z05_S27",
+        "Type": "Nacimiento",
+        "Sprite": "WW_W"
+    },
+    "20_40": {
+        "Color": "#486133",
+        "ZoneId": "D01_Z01_S01",
+        "Type": "Normal",
+        "Sprite": "WDDW"
+    },
+    "21_40": {
+        "Color": "#5F3367",
+        "ZoneId": "D01_Z06_S01",
+        "Type": "Normal",
+        "Sprite": "DW_W"
+    },
+    "22_40": {
+        "Color": "#5F3367",
+        "ZoneId": "D01_Z06_S01",
+        "Type": "Normal",
+        "Sprite": "_W_W"
+    },
+    "37_56": {
+        "Color": "#606876",
+        "ZoneId": "D02_Z02_S14",
+        "Type": "Normal",
+        "Sprite": "DWWW"
+    },
+    "23_63": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S23",
+        "Type": "Normal",
+        "Sprite": "_WDW"
+    },
+    "22_63": {
+        "Color": "#6D3859",
+        "ZoneId": "D02_Z03_S23",
+        "Type": "Normal",
+        "Sprite": "WW_W"
+    },
+    "22_25": {
+        "Color": "#726278",
+        "ZoneId": "D03_Z03_S14",
+        "Type": "Confessor",
+        "Sprite": "DWWW"
+    },
+    "23_40": {
+        "Color": "#5F3367",
+        "ZoneId": "D01_Z06_S01",
+        "Type": "Normal",
+        "Sprite": "_WWW"
+    }
+}
