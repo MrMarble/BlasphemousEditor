@@ -7,6 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "js-yaml": "^4.0.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
