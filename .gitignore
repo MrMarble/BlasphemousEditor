@@ -3,3 +3,5 @@ node_modules
 dist
 dist-ssr
 *.local
+assets/img/**
+!assets/img/map-spritesheet.png

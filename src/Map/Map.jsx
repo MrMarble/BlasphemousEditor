@@ -7,11 +7,11 @@ const MapComponent = styled.div`
   position: relative;
   width: 2000px;
   height: ${(props) => `${props.height}px`};
-  background-color: beige;
+  background-color: #11100c;
 `;
 
 export function Map({ rooms = [] }) {
-  const size = 36;
+  const size = 35.5;
   const height = 65 * size;
 
   return (
@@ -26,6 +26,7 @@ export function Map({ rooms = [] }) {
             size={size}
             color={cellData.Color}
             sprite={cellData.Sprite}
+            type={cellData.Type}
           />
         );
       })}

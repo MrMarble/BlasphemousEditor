@@ -5,8 +5,10 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "test": "jest"
+    "test": "jest",
+    "prebuild": "node ./scripts/generateAssets.js"
   },
+  "type": "module",
   "dependencies": {
     "@babel/preset-env": "^7.13.9",
     "@babel/preset-react": "^7.12.13",
@@ -23,6 +25,7 @@
     "@testing-library/react": "^11.2.5",
     "@vitejs/plugin-react-refresh": "^1.1.0",
     "jest": "^26.6.3",
+    "sharp": "^0.27.2",
     "vite": "^2.0.1"
   },
   "jest": {

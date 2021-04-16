@@ -3,7 +3,8 @@ import styled from "styled-components";
 import PropTypes from "prop-types";
 import { MAX_Y } from "../utils/constants";
 import spritesheet from "../../assets/img/map-spritesheet.png";
-import { getSprite } from "../utils/helpers";
+import { getMapSprite } from "../utils/helpers";
+import { Icon } from "../Icon/Icon";
 const CellComponent = styled.div.attrs((props) => ({
   style: {
     width: `${props.size}px`,
@@ -13,6 +14,7 @@ const CellComponent = styled.div.attrs((props) => ({
     lineHeight: `${props.size}px`,
     backgroundPositionX: `${props.sprite ? props.sprite[0] : 0}px`,
     backgroundPositionY: `${props.sprite ? props.sprite[1] : 0}px`,
+    backgroundColor: `${props.color}`,
   },
 }))`
   position: absolute;
@@ -20,7 +22,8 @@ const CellComponent = styled.div.attrs((props) => ({
   text-align: center;
   background-image: ${(props) => props.sprite && `url(${spritesheet})`};
   background-repeat: no-repeat;
-  background-color: #1d1a0e;
+  background-blend-mode: lighten;
+  filter: contrast(130%);
 `;
 
 export function Cell({
@@ -29,6 +32,7 @@ export function Cell({
   X = 0,
   color = "#51ccb1",
   sprite = "",
+  type = "Normal",
 }) {
   return (
     <CellComponent
@@ -37,8 +41,15 @@ export function Cell({
       Y={Y}
       X={X}
       color={color}
-      sprite={getSprite(sprite)}
-    />
+      title={type}
+      sprite={getMapSprite(sprite)}
+    >
+      {(() => {
+        if (type !== "Normal") {
+          return <Icon type={type} />;
+        }
+      })()}
+    </CellComponent>
   );
 }
 
